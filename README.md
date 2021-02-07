@@ -1,3 +1,5 @@
 # hello
 hello demo repo
-# hello
+
+[![<brianhoppus>](https://circleci.com/github/brianhoppus>/hello.svg?style=svg)](https://app.circleci.com/pipelines/github/brianhoppus/hello)
+

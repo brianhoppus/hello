@@ -7,6 +7,7 @@ test:
 	#python -m pytest --nbval notebook.ipynb
 	
 lint:
+	pip freeze
 	pylint --disable=R,C hello.py
 
 all: install lint test

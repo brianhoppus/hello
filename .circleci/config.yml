@@ -25,7 +25,7 @@ jobs:
   
       - run:
           name: run lint
-          command:
+          command: |
             which python3
             make lint
   

@@ -26,6 +26,6 @@ jobs:
       - run:
           name: run lint
           command:
-            pip freeze
+            which python3
             make lint
   
